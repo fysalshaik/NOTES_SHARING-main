@@ -15,7 +15,7 @@ This project is a web-based application designed to allow users to share notes o
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/your-username/Online-Notes-Sharing.git
+    git clone https://github.com/fysalshaik/NOTES_SHARING-main.git
     ```
 2. Navigate to the project directory:
     ```bash
